@@ -1,0 +1,85 @@
+</html>
+<!-- FROAKIE -->
+<div class="animal-card">
+  <img class="animal-pic" src=https://i.postimg.cc/3rD7L1Pz/IMG-20260214-175131107-PORTRAIT.jpg alt="Froakie">
+  <h2 class="animal-name">Froakie</h2>
+  <p class="animal-type">American Toad</p>
+  <div class="animal-facts">
+    <p><strong>Sex:</strong> Female</p>
+    <p><strong>Age:</strong> 4 years old</p>
+  </div>
+  <button class="bits-button">💎 Cheer Bits for Froakie</button>
+</div>
+
+<!-- CHEWY -->
+<div class="animal-card">
+  <img class="animal-pic" src=https://i.postimg.cc/Gt3Fp9wm/IMG-20251105-190601925.jpg alt="Chewy">
+  <h2 class="animal-name">Chewy</h2>
+  <p class="animal-type">Bunny</p>
+  <div class="animal-facts">
+    <p><strong>Sex:</strong> Male</p>
+    <p><strong>Age:</strong> 4 years old</p>
+  </div>
+  <button class="bits-button">💎 Cheer Bits for Chewy</button>
+</div>
+
+<!-- JOSH -->
+<div class="animal-card">
+  <img class="animal-pic" src=https://i.postimg.cc/W38ZxjFg/IMG-20260710-085719933-MP.jpg alt="Josh">
+  <h2 class="animal-name">Josh</h2>
+  <p class="animal-type">Budgie / Parakeet</p>
+  <div class="animal-facts">
+    <p><strong>Sex:</strong> Male</p>
+    <p><strong>Age:</strong> 1 year old</p>
+  </div>
+  <button class="bits-button">💎 Cheer Bits for Josh</button>
+</div>
+
+<!-- CLOVER -->
+<div class="animal-card">
+  <img class="animal-pic" src=https://i.postimg.cc/FsdfV0Zk/IMG-20260710-085729243-MP.jpg alt="Clover">
+  <h2 class="animal-name">Clover</h2>
+  <p class="animal-type">Budgie / Parakeet</p>
+  <div class="animal-facts">
+    <p><strong>Sex:</strong> Female</p>
+    <p><strong>Age:</strong> 1 year old</p>
+  </div>
+  <button class="bits-button">💎 Cheer Bits for Clover</button>
+</div>
+
+<!-- PIKACHU -->
+<div class="animal-card">
+  <img class="animal-pic" src=https://i.postimg.cc/g2xfJ2mB/IMG-20251104-185225679-HDR.jpg alt="Pikachu">
+  <h2 class="animal-name">Pikachu</h2>
+  <p class="animal-type">Cockatiel</p>
+  <div class="animal-facts">
+    <p><strong>Sex:</strong> Male</p>
+    <p><strong>Age:</strong> 13 years old</p>
+  </div>
+  <button class="bits-button">💎 Cheer Bits for Pikachu</button>
+</div>
+
+<!-- BUZZIE -->
+<div class="animal-card">
+  <img class="animal-pic" src=https://i.postimg.cc/VNRBPX2Y/IMG-20260216-151745078-MP.jpg alt="Buzzie">
+  <h2 class="animal-name">Buzzie</h2>
+  <p class="animal-type">Cockatiel</p>
+  <div class="animal-facts">
+    <p><strong>Sex:</strong> Male</p>
+    <p><strong>Age:</strong> 13 years old</p>
+  </div>
+  <button class="bits-button">💎 Cheer Bits for Buzzie</button>
+</div>
+
+<!-- CELO -->
+<div class="animal-card">
+  <img class="animal-pic" src=https://i.postimg.cc/hGfx6N85/IMG-20260626-125849836-MP.jpg alt="Celo">
+  <h2 class="animal-name">Celo</h2>
+  <p class="animal-type">Cockatiel</p>
+  <div class="animal-facts">
+    <p><strong>Sex:</strong> Male</p>
+    <p><strong>Age:</strong> 13 years old</p>
+  </div>
+  <button class="bits-button">💎 Cheer Bits for Celo</button>
+</div>
+
